@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tinablair
 - 👀 I’m interested in developing interactive games
 - 🌱 I’m currently learning XR Development and C#
-- 💞️ I’m looking to collaborate on nothing atm but maybe soon
+- 💞️ I’m looking to collaborate
 - 📫 https://www.linkedin.com/in/tina-blair-web-developer/
 
 <!---
