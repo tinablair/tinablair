@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tinablair
 - 👀 I’m interested in developing interactive games
-- 🌱 I've completed XR Development and C# with Circuit Stream Oct 2021
+- 🌱 I've completed XR Development and C# (Unity game engine) Oct 2021
 - 💞️ I’m looking to collaborate
 - 📫 https://www.linkedin.com/in/tina-blair-web-developer/
