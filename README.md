@@ -1,5 +1,13 @@
-- 👋 Hi, I’m @tinablair
-- 👀 I’m interested in developing interactive games
+- 👋 Hi, I’m @tinablair, a Web & XR Media Developer.
+- 👀 I love working on interactive games.
 - 🌱 I've completed XR Development and C# (Unity game engine) Oct 2021
 - 💞️ I’m looking to collaborate
 - 📫 https://www.linkedin.com/in/tina-blair-web-developer/
+## 🔧 Technologies & Tools
+- Programming Languages: HTML5, CSS3, C#, JavaScript
+- Web Design Tools: Dreamweaver, WordPress, some other CMS sites
+- Game Dev Tools: Unity, Visual Studio, GitHub, Adobe XD, Firefox Dev Tools, Chrome Dev Tools
+- Other Tools: ChatGPT
+- Graphic Design: Adobe Photoshop
+- Project Management: ClickUp
+- Knowledge base/Note-Taking: Obsidian
