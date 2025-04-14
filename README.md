@@ -7,7 +7,7 @@
 - Programming Languages: HTML5, CSS3, C#, JavaScript
 - Web Design Tools: Dreamweaver, WordPress, some other CMS sites
 - Game Dev Tools: Unity, Visual Studio, GitHub, Adobe XD, Firefox Dev Tools, Chrome Dev Tools
-- Other Tools: ChatGPT
+- Other Tools: ChatGPT, DeepSeek
 - Graphic Design: Adobe Photoshop
 - Project Management: ClickUp
 - Knowledge base/Note-Taking: Obsidian
